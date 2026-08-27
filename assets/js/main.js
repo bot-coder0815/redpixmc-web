@@ -12,7 +12,7 @@
     if (nav) {
       nav.innerHTML =
         '<div class="container nav-inner">' +
-        '<a class="nav-logo" href="index.html"><span class="dot">R</span><span>redpix<span style="color:var(--primary)">.mc</span></span></a>' +
+        '<a class="nav-logo" href="index.html"><span class="dot">R</span><span>redpixmc<span style="color:var(--primary)">.de</span></span></a>' +
         '<nav class="nav-links">' +
         links
           .map(function (l) {
